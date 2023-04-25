@@ -1,5 +1,8 @@
 # 💫 About Me:
-- I am a web programming and front end developer.<br>- Im in my third year of college majoring in software engineering.<br>- Im working on personal projects and courses to expand my knowledge<br>- Im a very fast learner and i'm eager to start my professional career.
+- I am a web programming and front end developer.
+- Im in my third year of college majoring in software engineering.
+- Im working on personal projects and courses to expand my knowledge
+- Im a very fast learner and i'm eager to start my professional career.
 
 
 ## 🌐 Socials:
